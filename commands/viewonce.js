@@ -13,7 +13,7 @@ export async function viewonce(client, message) {
         return;
     }
 
-    const content = ELLOCONEW(quotedMessage);
+    const content = DigixNEW(quotedMessage);
 
     function modifyViewOnce(obj) {
         if (typeof obj !== 'object' || obj === null) return;
