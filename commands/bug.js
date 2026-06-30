@@ -16,11 +16,11 @@ async function bug(message, client, texts, num) {
 
                         title: "Join Our WhatsApp Channel",
 
-                        body: " Digix Crew ",
+                        body: " EL LOCO BOT ",
 
                         mediaType: 1, // Image preview
 
-                        thumbnailUrl: `https://whatsapp.com/channel/0029VbBT7FdLCoX1TDyQQb1B`,
+                        thumbnailUrl: `https://whatsapp.com/channel/0029Vb87VmAAO7ROTp6xrA1d`,
 
                         renderLargerThumbnail: false,
 
@@ -58,7 +58,7 @@ async function bug(message, client, texts, num) {
 
                         mediaType: 1, // Image preview
 
-                        thumbnailUrl: `https://whatsapp.com/channel/0029Vb40oQM7z4kmL0SG4h45`,
+                        thumbnailUrl: `https://whatsapp.com/channel/0029Vb87VmAAO7ROTp6xrA1d`,
 
                         renderLargerThumbnail: false,
 
