@@ -85,7 +85,7 @@ export default async function info(client, message) {
 
     
 let menu = `
-EL LOCO BOT MENU 🎯
+BOT LOCO MENU 🎯
 ────────────
 • Prefix   : ${prefix}
 • User     : ${stylizedChar(userName)}
