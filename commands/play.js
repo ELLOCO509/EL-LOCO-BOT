@@ -40,7 +40,7 @@ export async function play(message, client) {
         
         await client.sendMessage(remoteJid, {
             image: { url: videoData.thumbnail },
-            caption: `🎵 *${videoData.title}*\n⏱️ ${videoData.duration || 'Inconnu'}\n👁️ ${videoData.views || 'Inconnu'} vues\n\n© Digital Crew 243`,
+            caption: `🎵 *${videoData.title}*\n⏱️ ${videoData.duration || 'Inconnu'}\n👁️ ${videoData.views || 'Inconnu'} vues\n\n© EL LOCO MUSIC`,
             quoted: message
         })
 
