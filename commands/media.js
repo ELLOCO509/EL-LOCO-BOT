@@ -8,7 +8,7 @@ export async function photo(client, message) {
         
         if (!target) {
             return await client.sendMessage(message.key.remoteJid, {
-                text: '📸 *EL LOCO BOT 243*\n\nRépondez à un sticker pour le convertir en image.\n\nUsage: .photo (réponse à un sticker)'
+                text: '📸 *EL LOCO BOT*\n\nRépondez à un sticker pour le convertir en image.\n\nUsage: .photo (réponse à un sticker)'
             })
         }
 
@@ -40,7 +40,7 @@ export async function tomp3(client, message) {
         
         if (!target) {
             return await client.sendMessage(message.key.remoteJid, {
-                text: '🎵 *EL LOCO BOT 243*\n\nRépondez à une vidéo pour extraire l\'audio.\n\nUsage: .toaudio (réponse à une vidéo)'
+                text: '🎵 *EL LOCO BOT*\n\nRépondez à une vidéo pour extraire l\'audio.\n\nUsage: .toaudio (réponse à une vidéo)'
             })
         }
 
